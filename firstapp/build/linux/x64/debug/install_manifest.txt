@@ -1,0 +1,12 @@
+/home/ausin/Desktop/projects/Flutter/firstapp/build/linux/x64/debug/bundle/firstapp
+/home/ausin/Desktop/projects/Flutter/firstapp/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/ausin/Desktop/projects/Flutter/firstapp/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/ausin/Desktop/projects/Flutter/firstapp/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/ausin/Desktop/projects/Flutter/firstapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/ausin/Desktop/projects/Flutter/firstapp/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/ausin/Desktop/projects/Flutter/firstapp/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/ausin/Desktop/projects/Flutter/firstapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/ausin/Desktop/projects/Flutter/firstapp/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/ausin/Desktop/projects/Flutter/firstapp/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/ausin/Desktop/projects/Flutter/firstapp/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/ausin/Desktop/projects/Flutter/firstapp/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
